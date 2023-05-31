@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.lazaro.github&apos; to &apos;com.lazaro.estruturadados.github&apos;&#x0A;- Original project: &apos;estutura-dados-um&apos;&#x0A;- Original element: &apos;estutura-dados-um/src/com.lazaro.github&apos;&#x0A;- Renamed element: &apos;estutura-dados-um/src/com.lazaro.estruturadados.github&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.lazaro.github&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.lazaro.github" name="com.lazaro.estruturadados.github" qualified="false" references="true" stamp="1685524151601" textual="false" version="1.0"/>
+</session>

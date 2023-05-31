@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/home/lazaro/ÚNICO FOCO/TreinaWeb/Formacao Java Full/.metadata/.plugins/org.eclipse.jdt.core
+2875785906.index
+1865797976.index
+646308851.index
+11715341.index
