@@ -1,0 +1,21 @@
+package com.lazaro.estruturadados.github.vetores;
+
+import com.lazaro.estruturadados.github.modelos.Pessoa;
+
+public class Vetor {
+	
+	private Pessoa[] pessoas;
+	
+	public Vetor(int capacidade) {
+		this.pessoas = new Pessoa[capacidade];
+	}
+	
+	public void inserir(int posicao, Pessoa pessoa) {
+		this.pessoas[posicao] = pessoa;
+	}
+	
+	public Pessoa recuperar(int posicao) {
+		return pessoas[posicao];
+	}
+
+}

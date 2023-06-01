@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;pessoas&apos; in &apos;com.lazaro.estruturadados.github.vetores.Vetor&apos; to &apos;elementos&apos;&#x0A;- Original project: &apos;estutura-dados-um&apos;&#x0A;- Original element: &apos;com.lazaro.estruturadados.github.vetores.Vetor.pessoas&apos;&#x0A;- Renamed element: &apos;com.lazaro.estruturadados.github.vetores.Vetor.elementos&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;pessoas&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.lazaro.estruturadados.github.vetores{Vetor.java[Vetor^pessoas" name="elementos" references="true" setter="false" stamp="1685609761586" textual="false" version="1.0"/>
+</session>
