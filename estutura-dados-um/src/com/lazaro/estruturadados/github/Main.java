@@ -29,10 +29,10 @@ public class Main {
 
 	private static void fazerVetor() {
 		Vetor<Pessoa> vetorPessoas = new Vetor<Pessoa>(3);
-		vetorPessoas.inserir(0, new Pessoa(1, "TreinaWeb vetor"));
+		vetorPessoas.inserirEm(0, new Pessoa(1, "TreinaWeb vetor"));
 		System.out.println(vetorPessoas.recuperar(0).getNome());
 		Vetor<Integer> vetorInteiros = new Vetor<Integer>(2);
-		vetorInteiros.inserir(0, 10);
+		vetorInteiros.inserirEm(0, 10);
 		System.out.println(vetorInteiros.recuperar(0));
 	}
 
